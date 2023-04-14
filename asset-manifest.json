@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/budgetbreaks/static/css/main.e086d16b.css",
-    "main.js": "/budgetbreaks/static/js/main.263ae62d.js",
+    "main.css": "/budgetbreaks/static/css/main.afb8fc0f.css",
+    "main.js": "/budgetbreaks/static/js/main.ec273dd5.js",
     "static/js/787.888f18b2.chunk.js": "/budgetbreaks/static/js/787.888f18b2.chunk.js",
     "static/media/wallpaperflare.com_wallpaper1.jpg": "/budgetbreaks/static/media/wallpaperflare.com_wallpaper1.a39f6eb0bb689a28ae33.jpg",
     "static/media/tour2.jpg": "/budgetbreaks/static/media/tour2.bd6b0df0e883d3669b77.jpg",
@@ -16,12 +16,12 @@
     "static/media/kashmir.jpg": "/budgetbreaks/static/media/kashmir.b7db238fd631d924db4f.jpg",
     "static/media/nathiagali3.jpg": "/budgetbreaks/static/media/nathiagali3.3157fcceabac55a419ac.jpg",
     "index.html": "/budgetbreaks/index.html",
-    "main.e086d16b.css.map": "/budgetbreaks/static/css/main.e086d16b.css.map",
-    "main.263ae62d.js.map": "/budgetbreaks/static/js/main.263ae62d.js.map",
+    "main.afb8fc0f.css.map": "/budgetbreaks/static/css/main.afb8fc0f.css.map",
+    "main.ec273dd5.js.map": "/budgetbreaks/static/js/main.ec273dd5.js.map",
     "787.888f18b2.chunk.js.map": "/budgetbreaks/static/js/787.888f18b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e086d16b.css",
-    "static/js/main.263ae62d.js"
+    "static/css/main.afb8fc0f.css",
+    "static/js/main.ec273dd5.js"
   ]
 }
